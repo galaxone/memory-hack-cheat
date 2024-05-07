@@ -4,7 +4,7 @@ A simple cheat for assault cube that demonstrate implementation of memory hackin
 ## Build
 You can use any compiler with Win32 API Libraries.
 
-For common most use case.
+For most common use case.
 ```ps
 g++ .\main.cpp -o .\main.exe
 ```
